@@ -1,5 +1,5 @@
 # ml-model-for-stock-trading
-This repository contains the notebook and data used in the Medium post <link-to-post>
+This repository contains the notebook and data used in the Medium post: [Using Machine Learning and Company Fundamentals for Beating the Stock Market](https://medium.com/@Batmaxx/using-machine-learning-and-company-fundamentals-for-beating-the-stock-market-fa2d4ac438a7)
 
 ## How to set up a conda environment
 ### Install Anaconda
