@@ -25,6 +25,8 @@ Once installed, open a new **Anaconda Prompt**
 
 
 ### Install dependencies
+In the root folder of the project (*.../ml-model-for-stock-trading*)
+
 `pip install -r requirements.txt`
 
 
